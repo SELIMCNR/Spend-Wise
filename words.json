@@ -1,0 +1,17 @@
+{
+  "cities": [
+    { "word": "ANKARA", "hint": "Türkiye'nin başkenti" },
+    { "word": "PARİS", "hint": "Fransa'nın başkenti" },
+    { "word": "ROMA", "hint": "İtalya'nın başkenti" }
+  ],
+  "animals": [
+    { "word": "ASLAN", "hint": "Ormanın kralı" },
+    { "word": "KAPLAN", "hint": "Yırtıcı hayvan" },
+    { "word": "ZEBRA", "hint": "Siyah beyaz çizgili" }
+  ],
+  "tech": [
+    { "word": "ROBOT", "hint": "Otomatik makine" },
+    { "word": "İNTERNET", "hint": "Dünya çapında ağ" },
+    { "word": "YAZILIM", "hint": "Program kodları" }
+  ]
+}
